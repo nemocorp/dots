@@ -1,0 +1,4 @@
+[Added Associations]
+text/html=firefox.desktop;org.gnome.gedit.desktop;
+text/x-markdown=org.gnome.gedit.desktop;
+video/x-msvideo=mplayer.desktop;

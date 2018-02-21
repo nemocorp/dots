@@ -1,0 +1,21 @@
+[global_config]
+  borderless = True
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_darkness = 0.26
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    font = monofur for Powerline 10
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False

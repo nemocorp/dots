@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="sftp://10.100.19.58/home/batman" added="2017-05-18T14:56:10Z" modified="2017-05-18T14:56:10Z" visited="2017-05-18T14:56:10Z">
+    <title>batman</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2017-05-18T14:56:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="ftp://mafreebox.free.fr/" added="2017-05-21T11:56:49Z" modified="2017-05-21T11:56:49Z" visited="2017-05-21T11:56:49Z">
+    <title>/ sur mafreebox.free.fr</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2017-05-21T11:56:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb:///%5C%5Chd-wfs03%5Ci$" added="2017-12-15T10:45:34Z" modified="2017-12-15T10:45:52Z" visited="2017-12-15T10:45:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2017-12-15T10:45:52Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://hd-wfs03/i$/" added="2017-12-15T10:46:21Z" modified="2017-12-15T10:46:21Z" visited="2017-12-15T10:46:21Z">
+    <title>i$ sur hd-wfs03</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2017-12-15T10:46:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
